@@ -1,6 +1,4 @@
 echo off
 d:
 netstat -ano>a2.txt
-
-
-一丢丢
+#最后网上修改一下。
