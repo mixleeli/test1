@@ -1,4 +1,6 @@
 echo off
 d:
 netstat -ano>a2.txt
-list
+
+
+一丢丢
